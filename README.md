@@ -62,3 +62,4 @@ This exam is intentionally designed to be implemented without the usage of any j
 * Given the user has entered text into the filter input
 * When the user clicks the sort button
 * The the sorted list of pizzas should also be filtered according to the input
+# Pizza
